@@ -1,0 +1,4 @@
+./node_modules/
+./api/dist/
+./web/dist/
+./web/src/stylesheets/.sass-cache/
