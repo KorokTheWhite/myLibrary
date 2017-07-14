@@ -1,0 +1,12 @@
+{
+  "name": "Libr",
+  "version": "1.0.0",
+  "description": "a simple CRUD application",
+  "author": "KorokWhite",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "babili": "^0.1.4"
+  }
+}
